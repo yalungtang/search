@@ -1,6 +1,6 @@
 # Yalung's Search
 
-This repository contains a local mock backend server for a frontend coding challenge (the name was deleted on purpose).
+This repository contains a frontend coding challenge (the name was deleted on purpose).
 
 ## How to use the search app
 
