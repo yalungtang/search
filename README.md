@@ -1,6 +1,12 @@
-# fe-interview-backend
+# Yalung's Search
 
-This repository contains a local mock backend server for the brightwheel frontend coding challenge as well as an empty React app using `create-react-app`, which you should use as a starting point.
+This repository contains a local mock backend server for a frontend coding challenge as well as an empty React app using `create-react-app`, which you should use as a starting point (the name was deleted on purpose).
+
+## How to use the search app
+
+1) Follow the getting started section
+2) Go to `http://localhost:3000` and search
+3) Features: You can search items, which will return 3 type of results, you can click on every item to star it and if you click the star count you will see a list of the starred items, if you search a different term the search results view will be selected again.
 
 ## Getting started
 
