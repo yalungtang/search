@@ -2,6 +2,8 @@
 
 This repository contains a local mock backend server for a frontend coding challenge (the name was deleted on purpose).
 
+![image](https://user-images.githubusercontent.com/28878731/135734649-19e2538c-e528-4073-908e-ac1fb46b9b6b.png)
+
 ## How to use the search app
 
 1) Follow the getting started section
